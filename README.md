@@ -1,2 +1,1 @@
-# college
-project is about the web development
+web development
